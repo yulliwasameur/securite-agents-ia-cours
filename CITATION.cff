@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce cours, merci de le citer comme indiqué ci-dessous."
+type: dataset
+title: "Sécurité des agents IA — Cours ouvert (édition d'octobre 2026)"
+authors:
+  - family-names: Ameur
+    given-names: Yulliwas
+    affiliation: "Efrei Research Lab, Efrei Paris ; CEDRIC, Cnam"
+version: "Octobre 2026, v2"
+date-released: 2026-10-28
+doi: 10.5281/zenodo.23732189
+license: CC-BY-4.0
+url: "https://doi.org/10.5281/zenodo.23732189"
+keywords:
+  - sécurité des agents IA
+  - injection de prompt
+  - LLM security
+  - AI agents
+  - OWASP
+  - cours ouvert
+abstract: "Cours ouvert en français sur la sécurité des agents IA : vocabulaire, fonctionnement des agents, fondamentaux de sécurité, injection de prompt, panorama des attaques, référentiels, défense en profondeur, évaluation. Dix modules, 133 planches."
